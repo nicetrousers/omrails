@@ -4,3 +4,5 @@ This is the sample application for
 [*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
 
 by [Keith Laidlaw](http://www.keithlaidlaw.com)
+
+# this is a comment
